@@ -9,6 +9,14 @@ header{
   width: 20%;
 }
 
+h1{
+  margin-bottom: 0;
+}
+
+.titoletto{
+  color: grey;
+  margin-bottom: 10px;
+}
 /* main */
 #booleaner{
   color: rgb(31, 180, 230);
@@ -28,4 +36,30 @@ th{
 
 .line{
   background-color: aqua;
+}
+
+/* parte finale */
+.yellow{
+  background-color: yellow;
+}
+
+h4{
+  color:gray
+}
+
+.monitor{
+  color: white;
+  background-image: url(/img/monitor.jpg);
+  background-size: cover;
+  height: 200px;
+  width: 200px;
+  margin-bottom: 10px;
+}
+
+.grafic{
+  color: white;
+  background-image: url(/img/graph.jpg);
+  background-size: cover;
+  height: 200px;
+  width: 200px;
 }
